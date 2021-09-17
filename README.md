@@ -1,6 +1,6 @@
 # Graph_depth_first_search
 
-Currently there is a simply graph class for unweighted graphs named Graph 
+Currently there is a simply graph class for directional unweighted graphs named Graph 
 
 their is also a class named Matrix to graphs which converts the graph to a matrix.
 
