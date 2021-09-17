@@ -1,4 +1,4 @@
-# Graph_depth_first_search
+# Graph_To_Matrix
 
 Currently there is a simply graph class for directional unweighted graphs named Graph 
 
