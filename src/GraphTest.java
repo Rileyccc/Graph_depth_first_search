@@ -13,7 +13,7 @@ class GraphTest {
 		//vertex 1
 		g.addVertex();
 		
-		// should return false when one of the Vertices does not exist in graph
+		//should return false when one of the Vertices does not exist in graph
 		assertEquals(g.addDirectededge(0, 2), false);
 	}
 	@Test
