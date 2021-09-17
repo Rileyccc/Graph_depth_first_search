@@ -32,6 +32,9 @@ public class Graph {
 		return graph.get(v1);
 		
 	}
+	public int getSize() {
+		return graph.size();
+	}
 	
 }
 
